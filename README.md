@@ -1,4 +1,4 @@
-![image](https://github.com/amirzangi31/amirzangi31/assets/94840781/b348e2a9-4807-43d7-981a-16e5961504f8) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amirzangi31.amirzangi31" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amir+ZangiAbadi!;" />
