@@ -28,7 +28,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,mui,html,css,vscode,github,figma,tailwind,git" /><br>
-    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,mongodb,nextjs,flutter" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,mongodb,nextjs,flutter,blender,threejs" />
 </div>
 
 <br/>
